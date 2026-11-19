@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Rayen 👋
 
-<!--
-**rayen-engineer/rayen-engineer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Electronics and embedded systems graduate (ISSAT Sousse, 2025), moving into software development.
+I am looking for an **Ausbildung als Fachinformatiker für Anwendungsentwicklung** in Germany, starting August 2027.
 
-Here are some ideas to get you started:
+## What I work with
+- **Embedded:** C, C++, ESP32, Arduino, CAN / UART / SPI
+- **Mobile:** Flutter (Dart)
+- **Data:** SQL / MySQL, Firebase, PHP APIs
+- **Automation:** PLC, Modbus
+- **Learning now:** C# and .NET
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- **FooTracker:** smart wearable and mobile app for football performance tracking (ESP32-C3, GPS, heart-rate sensor, Flutter, Firebase, MySQL).
+- **Smart Drone Control System:** controlling a drone with hand movements, using finger rings and AI to translate signals into flight commands.
+- **In progress:** a new AI project (details coming soon).
+
+## Languages
+Arabic (native) · French (C1) · English (B2) · German (preparing for ÖSD B2, planned for December 2026)
