@@ -1,7 +1,6 @@
 # Hi, I'm Rayen 👋
 
 Electronics and embedded systems graduate (ISSAT Sousse, 2025), moving into software development.
-I am looking for an **Ausbildung als Fachinformatiker für Anwendungsentwicklung** in Germany, starting August 2027.
 
 ## What I work with
 - **Embedded:** C, C++, ESP32, Arduino, CAN / UART / SPI
